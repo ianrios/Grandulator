@@ -1,0 +1,14 @@
+make sequencer to play with values
+
+add midi keyboard ?done? i think
+
+retune/ how to use it/ is there something better
+
+get better audio file
+
+make server at office hours (wednesday 2-4)
+
+turn it into graintable synth
+
+fix it so that i can edit start location and figure out what "not sure" is
+
